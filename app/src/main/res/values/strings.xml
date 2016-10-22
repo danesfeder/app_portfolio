@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application Portfolio</string>
+    <string name="sample_sub_text">Sample Text</string>
+    <string name="launch">Launch</string>
+</resources>
