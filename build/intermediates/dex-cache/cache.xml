@@ -3,93 +3,93 @@
 
     <item
         is-multidex="true"
-        jar="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3242481dd3c772e13d04459f0898b514846843b9">
-        <dex dex="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_beabb3805a253d9c73f9fbf22abc9e32fb597ad7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_2c50fcf407987070451279a1e542b2d4e9b8a93d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_11d11e0c7bf80189273c24ea55e67ef2acafb8d8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
-        <dex dex="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_c1f5ec48e6104d6e1a7e785fc9a4eac58acc0331/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jar="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="894922f67adeaaef51f077a29e315da21a3382d3">
-        <dex dex="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_a9a76c1aae43e3b95540221b672f0ee97f04b0a9/classes.dex" />
+        <dex dex="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_4254af754e5ed8480cb23c685fb506b53f751e96/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jar="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
-        <dex dex="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_3b2efc792c02e31c3a059b6bb5ea49f37c74c0f8/classes.dex" />
+        sha1="18a09fc6016d1880e487fd9b7b72587f47f936a2">
+        <dex dex="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9efba5dea947f9c50c32e1c6387d619d2ef4438c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
-        <dex dex="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_077ace4b52d338ade146945c4037547d0745035d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_44b67c6af4124c5aed431082794f4e099cebe41a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jar="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
-        <dex dex="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.0.0_df06ca9e5008770852be80ec7fb8a9734ba1f953/classes.dex" />
+        <dex dex="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.0.0_bf844ec033ef6a7134fc340fe4189ed849e67f9a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="0b39e5f723318750ee63b1b554407a48e854987e">
-        <dex dex="/Users/plk5227/Dev/Nanodegree/ApplicationPortfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6b8286e2bb23a662d40069b0655004ee50454cd3/classes.dex" />
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_cbc9fb60cb16a76bd17de6e5c065d360255dedce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_90e96b878ccec4f2082b74056fe7faefa107af6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/danielnesfeder/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_b5f7b6b53e54018ab2e69605d319a81ccbfe8a20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_37d460d51af2eeaee25557ffe20b8ec196549cd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7dc95ab67370c7659c16d641e8b33904e1dda942">
+        <dex dex="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d0013c03ac54ee73542c9daddf39ae63bffbc532/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_8a9811937520e576fe4c59df101d2818ac143455/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/danielnesfeder/Documents/Dev/Nanodegree/Portfolio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_016a1a7789b67a84c3aeea17b5a310394e4f6271/classes.dex" />
     </item>
 
 </items>
